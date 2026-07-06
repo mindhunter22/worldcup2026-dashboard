@@ -1,0 +1,24 @@
+{
+  "name": "WorldCup2026Dark",
+  "dataColors": [
+    "#6F2DA8",
+    "#39FF14",
+    "#9B5DE5",
+    "#00C896",
+    "#F15BB5",
+    "#FEE440",
+    "#B0B0B8",
+    "#FFFFFF"
+  ],
+  "background": "#0B0B0F",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#39FF14",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#1A1A22" } }, "transparency": 0 }],
+        "border": [{ "show": false }]
+      }
+    }
+  }
+}
