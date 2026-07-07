@@ -14,18 +14,23 @@
 ## 📸 Aperçu
 
 ### Menu
+
 ![Menu](screenshots/00_menu.png)
 
 ### Vue Générale
+
 ![Vue Générale](screenshots/01_vue_generale.png)
 
 ### Fiche Joueur
+
 ![Fiche Joueur](screenshots/02_fiche_joueur.png)
 
 ### Équipes
+
 ![Équipes](screenshots/03_equipes.png)
 
 ### Calendrier
+
 ![Calendrier](screenshots/04_calendrier.png)
 
 ---
@@ -35,6 +40,7 @@
 Un dashboard 5 pages connecté à l'API officielle API-Football, rafraîchi automatiquement via GitHub Actions, alimentant un modèle en étoile Power BI avec des mesures DAX avancées et un design Dark Mode professionnel.
 
 **Données en temps réel :**
+
 - 92 matchs joués analysés
 - 255 buts tracés
 - 1 248 joueurs suivis
@@ -66,22 +72,23 @@ Power BI Desktop (5 pages interactives)
 
 ## 🛠️ Stack technique
 
-| Couche | Technologie |
-|---|---|
-| Acquisition | Python 3.13 (`requests`, `pandas`, `pycountry`) |
-| Source | API-Football (plan Pro, saison 2026) |
-| Modélisation | Schéma en étoile, colonnes RELATED() |
-| Mesures | DAX avancé (RANKX, ALLSELECTED, REMOVEFILTERS) |
-| Visualisation | Power BI Desktop Dark Mode |
-| CI/CD | GitHub Actions (refresh toutes les 6h) |
+| Couche        | Technologie                                     |
+| ------------- | ----------------------------------------------- |
+| Acquisition   | Python 3.13 (`requests`, `pandas`, `pycountry`) |
+| Source        | API-Football (plan Pro, saison 2026)            |
+| Modélisation  | Schéma en étoile, colonnes RELATED()            |
+| Mesures       | DAX avancé (RANKX, ALLSELECTED, REMOVEFILTERS)  |
+| Visualisation | Power BI Desktop Dark Mode                      |
+| CI/CD         | GitHub Actions (refresh toutes les 6h)          |
 
 ---
 
 ## 🧮 DAX Highlights
 
 ### Classement buteurs dynamique
+
 ```dax
-Rank_Buteur_Final = 
+Rank_Buteur_Final =
 RANKX(
     ALLSELECTED(Dim_Joueurs),
     CALCULATE([Total_Buts]),
@@ -90,8 +97,9 @@ RANKX(
 ```
 
 ### Impact joueur sur les buts d'équipe
+
 ```dax
-Goal_Involvement_% = 
+Goal_Involvement_% =
 VAR ButsEtPassesJoueur = [Total_Buts] + [Total_Passes_Decisives]
 VAR EquipeActuelle = MAX(Dim_Equipes[Nom_Equipe])
 VAR ButsEquipe = CALCULATE([Total_Buts], REMOVEFILTERS(Dim_Joueurs),
@@ -100,6 +108,7 @@ RETURN DIVIDE(ButsEtPassesJoueur, ButsEquipe, 0)
 ```
 
 ### Efficacité offensive
+
 ```dax
 Team_Efficiency = DIVIDE([Total_Buts_Equipe], [Total_Tirs_Equipe], 0)
 ```
@@ -148,4 +157,5 @@ Master EISI · EPSI Grenoble · Alternance Caterpillar France
 [![GitHub](https://img.shields.io/badge/GitHub-mindhunter22-181717?style=flat-square&logo=github)](https://github.com/mindhunter22)
 
 ---
-*Juin–Juillet 2026 · Projet portfolio · Données : API-Football*
+
+_Juin–Juillet 2026 · Projet portfolio · Données : API-Football_
