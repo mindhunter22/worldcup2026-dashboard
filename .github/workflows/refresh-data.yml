@@ -2,14 +2,19 @@ name: Refresh World Cup Data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # toutes les 6 heures
-  workflow_dispatch:         # bouton "Run workflow" manuel sur GitHub
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
