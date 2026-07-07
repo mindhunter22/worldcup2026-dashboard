@@ -1,54 +1,4 @@
 Joueur_ID,Nom,Nationalite,URL_Photo,Equipe_ID
-19599,Emiliano Martínez,Argentina,https://media.api-sports.io/football/players/19599.png,26
-6503,Nahuel Molina,Argentina,https://media.api-sports.io/football/players/6503.png,26
-30776,Cristian Romero,Argentina,https://media.api-sports.io/football/players/30776.png,26
-2467,Lisandro Martínez,Argentina,https://media.api-sports.io/football/players/2467.png,26
-529,Nicolás Tagliafico,Argentina,https://media.api-sports.io/football/players/529.png,26
-271,Leandro Paredes,Argentina,https://media.api-sports.io/football/players/271.png,26
-2472,Rodrigo De Paul,Argentina,https://media.api-sports.io/football/players/2472.png,26
-6716,Alexis Mac Allister,Argentina,https://media.api-sports.io/football/players/6716.png,26
-5996,Enzo Fernández,Argentina,https://media.api-sports.io/football/players/5996.png,26
-154,Lionel Messi,Argentina,https://media.api-sports.io/football/players/154.png,26
-6009,Julián Alvarez,Argentina,https://media.api-sports.io/football/players/6009.png,26
-47296,Gerónimo Rulli,Argentina,https://media.api-sports.io/football/players/47296.png,26
-2465,Juan Musso,Argentina,https://media.api-sports.io/football/players/2465.png,26
-6610,Marcos Senesi,Argentina,https://media.api-sports.io/football/players/6610.png,26
-2468,Gonzalo Montiel,Argentina,https://media.api-sports.io/football/players/2468.png,26
-624,Nicolás Otamendi,Argentina,https://media.api-sports.io/football/players/624.png,26
-6231,Facundo Medina,Argentina,https://media.api-sports.io/football/players/6231.png,26
-319572,Valentín Barco,Argentina,https://media.api-sports.io/football/players/319572.png,26
-1578,Giovani Lo Celso,Argentina,https://media.api-sports.io/football/players/1578.png,26
-6002,Exequiel Palacios,Argentina,https://media.api-sports.io/football/players/6002.png,26
-26315,Nicolás González,Argentina,https://media.api-sports.io/football/players/26315.png,26
-6067,Thiago Almada,Argentina,https://media.api-sports.io/football/players/6067.png,26
-323935,Giuliano Simeone,Argentina,https://media.api-sports.io/football/players/323935.png,26
-350037,Nico Paz,Argentina,https://media.api-sports.io/football/players/350037.png,26
-295513,José Manuel López,Argentina,https://media.api-sports.io/football/players/295513.png,26
-217,Lautaro Martínez,Argentina,https://media.api-sports.io/football/players/217.png,26
-269174,Mostafa Shobeir,Egypt,https://media.api-sports.io/football/players/269174.png,32
-2654,Mohamed Hany,Egypt,https://media.api-sports.io/football/players/2654.png,32
-16804,Yasser Ibrahim,Egypt,https://media.api-sports.io/football/players/16804.png,32
-16805,Rami Rabia,Egypt,https://media.api-sports.io/football/players/16805.png,32
-2656,Karim Hafez,Egypt,https://media.api-sports.io/football/players/2656.png,32
-20844,Haissem Hassan,Egypt,https://media.api-sports.io/football/players/20844.png,32
-16841,Mohanad Lasheen,Egypt,https://media.api-sports.io/football/players/16841.png,32
-190575,Marwan Attia,Egypt,https://media.api-sports.io/football/players/190575.png,32
-17269,Emam Ashour,Egypt,https://media.api-sports.io/football/players/17269.png,32
-306,Mohamed Salah,Egypt,https://media.api-sports.io/football/players/306.png,32
-395075,Mostafa Ziko,Egypt,https://media.api-sports.io/football/players/395075.png,32
-16797,Mohamed El-Shenawy,Egypt,https://media.api-sports.io/football/players/16797.png,32
-498250,Mohamed Alaa,Egypt,https://media.api-sports.io/football/players/498250.png,32
-16831,Mahdi Soliman,Egypt,https://media.api-sports.io/football/players/16831.png,32
-550371,Tarek Alaa,Egypt,https://media.api-sports.io/football/players/550371.png,32
-269621,Hossam Abdelmaguid,Egypt,https://media.api-sports.io/football/players/269621.png,32
-16871,Zizo,Egypt,https://media.api-sports.io/football/players/16871.png,32
-70535,Ibrahim Adel,Egypt,https://media.api-sports.io/football/players/70535.png,32
-2664,Mahmoud Trézéguet,Egypt,https://media.api-sports.io/football/players/2664.png,32
-69196,Mahmoud Saber,Egypt,https://media.api-sports.io/football/players/69196.png,32
-16813,Hamdy Fathy,Egypt,https://media.api-sports.io/football/players/16813.png,32
-2660,Nabil Donga,Egypt,https://media.api-sports.io/football/players/2660.png,32
-81573,Omar Marmoush,Egypt,https://media.api-sports.io/football/players/81573.png,32
-550547,Hamza Abdelkarim,Egypt,https://media.api-sports.io/football/players/550547.png,32
 270774,Raúl Rangel,Mexico,https://media.api-sports.io/football/players/270774.png,16
 127227,Israel Reyes,Mexico,https://media.api-sports.io/football/players/127227.png,16
 2873,César Montes,Mexico,https://media.api-sports.io/football/players/2873.png,16
@@ -749,8 +699,32 @@ Joueur_ID,Nom,Nationalite,URL_Photo,Equipe_ID
 20,Axel Witsel,Belgium,https://media.api-sports.io/football/players/20.png,1
 335056,Diego Moreira,Belgium,https://media.api-sports.io/football/players/335056.png,1
 25458,Dodi Lukebakio,Belgium,https://media.api-sports.io/football/players/25458.png,1
+269174,Mostafa Shobeir,Egypt,https://media.api-sports.io/football/players/269174.png,32
+2654,Mohamed Hany,Egypt,https://media.api-sports.io/football/players/2654.png,32
+16804,Yasser Ibrahim,Egypt,https://media.api-sports.io/football/players/16804.png,32
+16813,Hamdy Fathy,Egypt,https://media.api-sports.io/football/players/16813.png,32
 2649,Ahmed Fatouh,Egypt,https://media.api-sports.io/football/players/2649.png,32
+190575,Marwan Attia,Egypt,https://media.api-sports.io/football/players/190575.png,32
+16841,Mohanad Lasheen,Egypt,https://media.api-sports.io/football/players/16841.png,32
+395075,Mostafa Ziko,Egypt,https://media.api-sports.io/football/players/395075.png,32
+306,Mohamed Salah,Egypt,https://media.api-sports.io/football/players/306.png,32
+17269,Emam Ashour,Egypt,https://media.api-sports.io/football/players/17269.png,32
+81573,Omar Marmoush,Egypt,https://media.api-sports.io/football/players/81573.png,32
+16805,Rami Rabia,Egypt,https://media.api-sports.io/football/players/16805.png,32
+16871,Zizo,Egypt,https://media.api-sports.io/football/players/16871.png,32
+550547,Hamza Abdelkarim,Egypt,https://media.api-sports.io/football/players/550547.png,32
+2656,Karim Hafez,Egypt,https://media.api-sports.io/football/players/2656.png,32
+70535,Ibrahim Adel,Egypt,https://media.api-sports.io/football/players/70535.png,32
+16831,Mahdi Soliman,Egypt,https://media.api-sports.io/football/players/16831.png,32
+498250,Mohamed Alaa,Egypt,https://media.api-sports.io/football/players/498250.png,32
+16797,Mohamed El-Shenawy,Egypt,https://media.api-sports.io/football/players/16797.png,32
+269621,Hossam Abdelmaguid,Egypt,https://media.api-sports.io/football/players/269621.png,32
 196343,Mohamed Abdelmonem,Egypt,https://media.api-sports.io/football/players/196343.png,32
+550371,Tarek Alaa,Egypt,https://media.api-sports.io/football/players/550371.png,32
+20844,Haissem Hassan,Egypt,https://media.api-sports.io/football/players/20844.png,32
+69196,Mahmoud Saber,Egypt,https://media.api-sports.io/football/players/69196.png,32
+2664,Mahmoud Trézéguet,Egypt,https://media.api-sports.io/football/players/2664.png,32
+2660,Nabil Donga,Egypt,https://media.api-sports.io/football/players/2660.png,32
 44411,Mohammed Al-Owais,Saudi Arabia,https://media.api-sports.io/football/players/44411.png,23
 44594,Saud Abdulhamid,Saudi Arabia,https://media.api-sports.io/football/players/44594.png,23
 44475,Abdulelah Al-Amri,Saudi Arabia,https://media.api-sports.io/football/players/44475.png,23
@@ -956,6 +930,32 @@ Joueur_ID,Nom,Nationalite,URL_Photo,Equipe_ID
 39362,Marcus Pedersen,Norway,https://media.api-sports.io/football/players/39362.png,1090
 2032,Jørgen Strand Larsen,Norway,https://media.api-sports.io/football/players/2032.png,1090
 39073,Jens Petter Hauge,Norway,https://media.api-sports.io/football/players/39073.png,1090
+19599,Emiliano Martínez,Argentina,https://media.api-sports.io/football/players/19599.png,26
+2468,Gonzalo Montiel,Argentina,https://media.api-sports.io/football/players/2468.png,26
+30776,Cristian Romero,Argentina,https://media.api-sports.io/football/players/30776.png,26
+2467,Lisandro Martínez,Argentina,https://media.api-sports.io/football/players/2467.png,26
+6231,Facundo Medina,Argentina,https://media.api-sports.io/football/players/6231.png,26
+2472,Rodrigo De Paul,Argentina,https://media.api-sports.io/football/players/2472.png,26
+6716,Alexis Mac Allister,Argentina,https://media.api-sports.io/football/players/6716.png,26
+5996,Enzo Fernández,Argentina,https://media.api-sports.io/football/players/5996.png,26
+6067,Thiago Almada,Argentina,https://media.api-sports.io/football/players/6067.png,26
+154,Lionel Messi,Argentina,https://media.api-sports.io/football/players/154.png,26
+217,Lautaro Martínez,Argentina,https://media.api-sports.io/football/players/217.png,26
+6503,Nahuel Molina,Argentina,https://media.api-sports.io/football/players/6503.png,26
+26315,Nicolás González,Argentina,https://media.api-sports.io/football/players/26315.png,26
+6009,Julián Alvarez,Argentina,https://media.api-sports.io/football/players/6009.png,26
+624,Nicolás Otamendi,Argentina,https://media.api-sports.io/football/players/624.png,26
+350037,Nico Paz,Argentina,https://media.api-sports.io/football/players/350037.png,26
+47296,Gerónimo Rulli,Argentina,https://media.api-sports.io/football/players/47296.png,26
+2465,Juan Musso,Argentina,https://media.api-sports.io/football/players/2465.png,26
+6610,Marcos Senesi,Argentina,https://media.api-sports.io/football/players/6610.png,26
+529,Nicolás Tagliafico,Argentina,https://media.api-sports.io/football/players/529.png,26
+6002,Exequiel Palacios,Argentina,https://media.api-sports.io/football/players/6002.png,26
+1578,Giovani Lo Celso,Argentina,https://media.api-sports.io/football/players/1578.png,26
+323935,Giuliano Simeone,Argentina,https://media.api-sports.io/football/players/323935.png,26
+271,Leandro Paredes,Argentina,https://media.api-sports.io/football/players/271.png,26
+319572,Valentín Barco,Argentina,https://media.api-sports.io/football/players/319572.png,26
+295513,José Manuel López,Argentina,https://media.api-sports.io/football/players/295513.png,26
 732,Luca Zidane,Algeria,https://media.api-sports.io/football/players/732.png,1532
 303362,Rafik Belghali,Algeria,https://media.api-sports.io/football/players/303362.png,1532
 1567,Aïssa Mandi,Algeria,https://media.api-sports.io/football/players/1567.png,1532

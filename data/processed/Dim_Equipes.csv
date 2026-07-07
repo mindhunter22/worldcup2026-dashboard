@@ -1,6 +1,4 @@
 Equipe_ID,Nom_Equipe,URL_Logo,URL_Drapeau
-26,Argentina,https://media.api-sports.io/football/teams/26.png,https://flagcdn.com/w320/ar.png
-32,Egypt,https://media.api-sports.io/football/teams/32.png,https://flagcdn.com/w320/eg.png
 16,Mexico,https://media.api-sports.io/football/teams/16.png,https://flagcdn.com/w320/mx.png
 1531,South Africa,https://media.api-sports.io/football/teams/1531.png,https://flagcdn.com/w320/za.png
 17,South Korea,https://media.api-sports.io/football/teams/17.png,https://flagcdn.com/w320/kr.png
@@ -28,6 +26,7 @@ Equipe_ID,Nom_Equipe,URL_Logo,URL_Drapeau
 9,Spain,https://media.api-sports.io/football/teams/9.png,https://flagcdn.com/w320/es.png
 1533,Cape Verde Islands,https://media.api-sports.io/football/teams/1533.png,https://flagcdn.com/w320/cv.png
 1,Belgium,https://media.api-sports.io/football/teams/1.png,https://flagcdn.com/w320/be.png
+32,Egypt,https://media.api-sports.io/football/teams/32.png,https://flagcdn.com/w320/eg.png
 23,Saudi Arabia,https://media.api-sports.io/football/teams/23.png,https://flagcdn.com/w320/sa.png
 7,Uruguay,https://media.api-sports.io/football/teams/7.png,https://flagcdn.com/w320/uy.png
 22,Iran,https://media.api-sports.io/football/teams/22.png,https://flagcdn.com/w320/ir.png
@@ -36,6 +35,7 @@ Equipe_ID,Nom_Equipe,URL_Logo,URL_Drapeau
 13,Senegal,https://media.api-sports.io/football/teams/13.png,https://flagcdn.com/w320/sn.png
 1567,Iraq,https://media.api-sports.io/football/teams/1567.png,https://flagcdn.com/w320/iq.png
 1090,Norway,https://media.api-sports.io/football/teams/1090.png,https://flagcdn.com/w320/no.png
+26,Argentina,https://media.api-sports.io/football/teams/26.png,https://flagcdn.com/w320/ar.png
 1532,Algeria,https://media.api-sports.io/football/teams/1532.png,https://flagcdn.com/w320/dz.png
 775,Austria,https://media.api-sports.io/football/teams/775.png,https://flagcdn.com/w320/at.png
 1548,Jordan,https://media.api-sports.io/football/teams/1548.png,https://flagcdn.com/w320/jo.png
