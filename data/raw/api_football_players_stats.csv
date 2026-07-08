@@ -1042,7 +1042,7 @@ player_id,nom,nationalite,photo_url,equipe_id,equipe,logo_equipe_url,drapeau_url
 335051,João Neves,Portugal,https://media.api-sports.io/football/players/335051.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,1,0,,1,90
 128384,Vitinha,Portugal,https://media.api-sports.io/football/players/128384.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,0,0,,0,83
 636,Bernardo Silva,Portugal,https://media.api-sports.io/football/players/636.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,0,0,,0,45
-1485,Bruno Fernandes,Portugal,https://media.api-sports.io/football/players/1485.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,0,0,,2,90
+1485,Bruno Fernandes,Portugal,https://media.api-sports.io/football/players/1485.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,0,0,,1,90
 1864,Pedro Neto,Portugal,https://media.api-sports.io/football/players/1864.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,0,1,,0,71
 874,Cristiano Ronaldo,Portugal,https://media.api-sports.io/football/players/874.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,0,0,,3,90
 161585,Francisco Conceição,Portugal,https://media.api-sports.io/football/players/161585.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1539003,2026-06-17,0,0,,0,45
@@ -2272,7 +2272,7 @@ player_id,nom,nationalite,photo_url,equipe_id,equipe,logo_equipe_url,drapeau_url
 335051,João Neves,Portugal,https://media.api-sports.io/football/players/335051.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,0,0,,0,76
 128384,Vitinha,Portugal,https://media.api-sports.io/football/players/128384.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,0,0,,1,83
 1864,Pedro Neto,Portugal,https://media.api-sports.io/football/players/1864.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,0,0,,0,45
-1485,Bruno Fernandes,Portugal,https://media.api-sports.io/football/players/1485.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,0,1,,2,90
+1485,Bruno Fernandes,Portugal,https://media.api-sports.io/football/players/1485.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,0,1,,1,90
 583,João Félix,Portugal,https://media.api-sports.io/football/players/583.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,0,0,,3,63
 874,Cristiano Ronaldo,Portugal,https://media.api-sports.io/football/players/874.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,2,0,,6,90
 130,Nélson Semedo,Portugal,https://media.api-sports.io/football/players/130.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1489404,2026-06-23,0,0,,0,45
@@ -4262,7 +4262,7 @@ player_id,nom,nationalite,photo_url,equipe_id,equipe,logo_equipe_url,drapeau_url
 335051,João Neves,Portugal,https://media.api-sports.io/football/players/335051.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,0,0,,1,90
 128384,Vitinha,Portugal,https://media.api-sports.io/football/players/128384.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,0,0,,0,62
 1864,Pedro Neto,Portugal,https://media.api-sports.io/football/players/1864.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,0,0,,0,63
-1485,Bruno Fernandes,Portugal,https://media.api-sports.io/football/players/1485.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,0,0,,2,63
+1485,Bruno Fernandes,Portugal,https://media.api-sports.io/football/players/1485.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,0,0,,1,63
 22236,Rafael Leão,Portugal,https://media.api-sports.io/football/players/22236.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,0,1,,2,90
 874,Cristiano Ronaldo,Portugal,https://media.api-sports.io/football/players/874.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,1,0,,1,81
 130,Nélson Semedo,Portugal,https://media.api-sports.io/football/players/130.png,27,Portugal,https://media.api-sports.io/football/teams/27.png,,1567309,2026-07-02,0,0,,0,27
@@ -4864,52 +4864,52 @@ player_id,nom,nationalite,photo_url,equipe_id,equipe,logo_equipe_url,drapeau_url
 69196,Mahmoud Saber,Egypt,https://media.api-sports.io/football/players/69196.png,32,Egypt,https://media.api-sports.io/football/teams/32.png,,1576804,2026-07-07,0,0,,0,0
 2660,Nabil Donga,Egypt,https://media.api-sports.io/football/players/2660.png,32,Egypt,https://media.api-sports.io/football/teams/32.png,,1576804,2026-07-07,0,0,,0,0
 550547,Hamza Abdelkarim,Egypt,https://media.api-sports.io/football/players/550547.png,32,Egypt,https://media.api-sports.io/football/teams/32.png,,1576804,2026-07-07,0,0,,0,0
-25282,Gregor Kobel,Switzerland,https://media.api-sports.io/football/players/25282.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-2810,Denis Zakaria,Switzerland,https://media.api-sports.io/football/players/2810.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-2803,Nico Elvedi,Switzerland,https://media.api-sports.io/football/players/2803.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-5,Manuel Akanji,Switzerland,https://media.api-sports.io/football/players/5.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-1631,Ricardo Rodríguez,Switzerland,https://media.api-sports.io/football/players/1631.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-2807,Remo Freuler,Switzerland,https://media.api-sports.io/football/players/2807.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-1464,Granit Xhaka,Switzerland,https://media.api-sports.io/football/players/1464.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-163032,Fabian Rieder,Switzerland,https://media.api-sports.io/football/players/163032.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,1,49
-264705,Ardon Jashari,Switzerland,https://media.api-sports.io/football/players/264705.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
-48648,Dan Ndoye,Switzerland,https://media.api-sports.io/football/players/48648.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,1,49
-421,Breel Embolo,Switzerland,https://media.api-sports.io/football/players/421.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
+25282,Gregor Kobel,Switzerland,https://media.api-sports.io/football/players/25282.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,120
+2810,Denis Zakaria,Switzerland,https://media.api-sports.io/football/players/2810.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,87
+2803,Nico Elvedi,Switzerland,https://media.api-sports.io/football/players/2803.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,120
+5,Manuel Akanji,Switzerland,https://media.api-sports.io/football/players/5.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,120
+1631,Ricardo Rodríguez,Switzerland,https://media.api-sports.io/football/players/1631.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,71
+2807,Remo Freuler,Switzerland,https://media.api-sports.io/football/players/2807.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,120
+1464,Granit Xhaka,Switzerland,https://media.api-sports.io/football/players/1464.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,1,120
+163032,Fabian Rieder,Switzerland,https://media.api-sports.io/football/players/163032.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,2,103
+264705,Ardon Jashari,Switzerland,https://media.api-sports.io/football/players/264705.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,45
+48648,Dan Ndoye,Switzerland,https://media.api-sports.io/football/players/48648.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,2,89
+421,Breel Embolo,Switzerland,https://media.api-sports.io/football/players/421.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,87
+957,Djibril Sow,Switzerland,https://media.api-sports.io/football/players/957.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,1,75
+48489,Miro Muheim,Switzerland,https://media.api-sports.io/football/players/48489.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,49
+48378,Silvan Widmer,Switzerland,https://media.api-sports.io/football/players/48378.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,33
+48497,Cédric Itten,Switzerland,https://media.api-sports.io/football/players/48497.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,33
+48471,Rubén Vargas,Switzerland,https://media.api-sports.io/football/players/48471.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,31
+123469,Zeki Amdouni,Switzerland,https://media.api-sports.io/football/players/123469.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,17
 1142,Yvon Mvogo,Switzerland,https://media.api-sports.io/football/players/1142.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
 123468,Marvin Keller,Switzerland,https://media.api-sports.io/football/players/123468.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
 48372,Eray Cömert,Switzerland,https://media.api-sports.io/football/players/48372.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
 162414,Aurèle Amenda,Switzerland,https://media.api-sports.io/football/players/162414.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
-48489,Miro Muheim,Switzerland,https://media.api-sports.io/football/players/48489.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
-48378,Silvan Widmer,Switzerland,https://media.api-sports.io/football/players/48378.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
-957,Djibril Sow,Switzerland,https://media.api-sports.io/football/players/957.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
 952,Christian Fassnacht,Switzerland,https://media.api-sports.io/football/players/952.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
-48471,Rubén Vargas,Switzerland,https://media.api-sports.io/football/players/48471.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
 48389,Noah Okafor,Switzerland,https://media.api-sports.io/football/players/48389.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
-123469,Zeki Amdouni,Switzerland,https://media.api-sports.io/football/players/123469.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
-48497,Cédric Itten,Switzerland,https://media.api-sports.io/football/players/48497.png,15,Switzerland,https://media.api-sports.io/football/teams/15.png,,1576805,2026-07-07,0,0,,0,0
-2482,Camilo Vargas,Colombia,https://media.api-sports.io/football/players/2482.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-13736,Daniel Muñoz,Colombia,https://media.api-sports.io/football/players/13736.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-168,Davinson Sánchez,Colombia,https://media.api-sports.io/football/players/168.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-1929,Jhon Lucumí,Colombia,https://media.api-sports.io/football/players/1929.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-64268,Johan Mojica,Colombia,https://media.api-sports.io/football/players/64268.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-13708,Jhon Arias,Colombia,https://media.api-sports.io/football/players/13708.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-2490,Jefferson Lerma,Colombia,https://media.api-sports.io/football/players/2490.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-324034,Gustavo Puerta,Colombia,https://media.api-sports.io/football/players/324034.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,2,49
-2489,Luis Díaz,Colombia,https://media.api-sports.io/football/players/2489.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-517,James Rodríguez,Colombia,https://media.api-sports.io/football/players/517.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
-47237,Luis Javier Suárez,Colombia,https://media.api-sports.io/football/players/47237.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,49
+2482,Camilo Vargas,Colombia,https://media.api-sports.io/football/players/2482.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,120
+13736,Daniel Muñoz,Colombia,https://media.api-sports.io/football/players/13736.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,120
+168,Davinson Sánchez,Colombia,https://media.api-sports.io/football/players/168.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,1,120
+1929,Jhon Lucumí,Colombia,https://media.api-sports.io/football/players/1929.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,1,119
+64268,Johan Mojica,Colombia,https://media.api-sports.io/football/players/64268.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,120
+13708,Jhon Arias,Colombia,https://media.api-sports.io/football/players/13708.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,66
+2490,Jefferson Lerma,Colombia,https://media.api-sports.io/football/players/2490.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,82
+324034,Gustavo Puerta,Colombia,https://media.api-sports.io/football/players/324034.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,2,120
+2489,Luis Díaz,Colombia,https://media.api-sports.io/football/players/2489.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,1,120
+517,James Rodríguez,Colombia,https://media.api-sports.io/football/players/517.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,66
+47237,Luis Javier Suárez,Colombia,https://media.api-sports.io/football/players/47237.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,1,82
+6005,Juan Fernando Quintero,Colombia,https://media.api-sports.io/football/players/6005.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,1,54
+13376,Jaminton Campaz,Colombia,https://media.api-sports.io/football/players/13376.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,2,54
+195104,Richard Ríos,Colombia,https://media.api-sports.io/football/players/195104.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,1,38
+47582,Cucho Hernández,Colombia,https://media.api-sports.io/football/players/47582.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,1,38
+2484,Yerry Mina,Colombia,https://media.api-sports.io/football/players/2484.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,1
 313,David Ospina,Colombia,https://media.api-sports.io/football/players/313.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 2481,Álvaro Montero,Colombia,https://media.api-sports.io/football/players/2481.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 30,Santiago Arias,Colombia,https://media.api-sports.io/football/players/30.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
-2484,Yerry Mina,Colombia,https://media.api-sports.io/football/players/2484.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 13571,Willer Ditta,Colombia,https://media.api-sports.io/football/players/13571.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 2483,Deiver Machado,Colombia,https://media.api-sports.io/football/players/2483.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 289592,Kevin Castaño,Colombia,https://media.api-sports.io/football/players/289592.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
-195104,Richard Ríos,Colombia,https://media.api-sports.io/football/players/195104.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 5994,Jorge Carrascal,Colombia,https://media.api-sports.io/football/players/5994.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 13151,Juan Portilla,Colombia,https://media.api-sports.io/football/players/13151.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
-6005,Juan Fernando Quintero,Colombia,https://media.api-sports.io/football/players/6005.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 345748,Andrés Gómez,Colombia,https://media.api-sports.io/football/players/345748.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
-13376,Jaminton Campaz,Colombia,https://media.api-sports.io/football/players/13376.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
 24810,Jhon Córdoba,Colombia,https://media.api-sports.io/football/players/24810.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
-47582,Cucho Hernández,Colombia,https://media.api-sports.io/football/players/47582.png,8,Colombia,https://media.api-sports.io/football/teams/8.png,,1576805,2026-07-07,0,0,,0,0
