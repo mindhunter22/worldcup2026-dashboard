@@ -1,4 +1,53 @@
 player_id,nom,nationalite,photo_url,equipe_id,equipe,logo_equipe_url,drapeau_url,match_id,date,buts,passes_decisives,xg,tirs,minutes
+47270,Unai Simón,Spain,https://media.api-sports.io/football/players/47270.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+47519,Pedro Porro,Spain,https://media.api-sports.io/football/players/47519.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+396623,Pau Cubarsí,Spain,https://media.api-sports.io/football/players/396623.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+622,Aymeric Laporte,Spain,https://media.api-sports.io/football/players/622.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+47380,Marc Cucurella,Spain,https://media.api-sports.io/football/players/47380.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+44,Rodri,Spain,https://media.api-sports.io/football/players/44.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+328,Fabián Ruiz,Spain,https://media.api-sports.io/football/players/328.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+386828,Lamine Yamal,Spain,https://media.api-sports.io/football/players/386828.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+1323,Dani Olmo,Spain,https://media.api-sports.io/football/players/1323.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+182219,Alex Baena,Spain,https://media.api-sports.io/football/players/182219.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+47323,Mikel Oyarzabal,Spain,https://media.api-sports.io/football/players/47323.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,12
+19465,David Raya,Spain,https://media.api-sports.io/football/players/19465.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+182718,Joan García,Spain,https://media.api-sports.io/football/players/182718.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+295793,Marc Pubill,Spain,https://media.api-sports.io/football/players/295793.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+619,Eric García,Spain,https://media.api-sports.io/football/players/619.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+753,Marcos Llorente,Spain,https://media.api-sports.io/football/players/753.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+563,Alejandro Grimaldo,Spain,https://media.api-sports.io/football/players/563.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+47311,Mikel Merino,Spain,https://media.api-sports.io/football/players/47311.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+296667,Pablo Gavi,Spain,https://media.api-sports.io/football/players/296667.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+47315,Martín Zubimendi,Spain,https://media.api-sports.io/football/players/47315.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+133609,Pedri,Spain,https://media.api-sports.io/football/players/133609.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+183799,Nico Williams,Spain,https://media.api-sports.io/football/players/183799.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+931,Ferran Torres,Spain,https://media.api-sports.io/football/players/931.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+184226,Yéremy Pino,Spain,https://media.api-sports.io/football/players/184226.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+338751,Víctor Muñoz,Spain,https://media.api-sports.io/football/players/338751.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+47348,Borja Iglesias,Spain,https://media.api-sports.io/football/players/47348.png,9,Spain,https://media.api-sports.io/football/teams/9.png,,1581821,2026-07-10,0,0,,0,0
+730,Thibaut Courtois,Belgium,https://media.api-sports.io/football/players/730.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+2920,Timothy Castagne,Belgium,https://media.api-sports.io/football/players/2920.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+312964,Nathan Ngoy,Belgium,https://media.api-sports.io/football/players/312964.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+69,Brandon Mechele,Belgium,https://media.api-sports.io/football/players/69.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+162007,Maxim De Cuyper,Belgium,https://media.api-sports.io/football/players/162007.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+78,Hans Vanaken,Belgium,https://media.api-sports.io/football/players/78.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+2120,Nicolas Raskin,Belgium,https://media.api-sports.io/football/players/2120.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+1946,Leandro Trossard,Belgium,https://media.api-sports.io/football/players/1946.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+629,Kevin De Bruyne,Belgium,https://media.api-sports.io/football/players/629.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+1422,Jérémy Doku,Belgium,https://media.api-sports.io/football/players/1422.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+147859,Charles De Ketelaere,Belgium,https://media.api-sports.io/football/players/147859.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,12
+162511,Senne Lammens,Belgium,https://media.api-sports.io/football/players/162511.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+340151,Mike Penders,Belgium,https://media.api-sports.io/football/players/340151.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+204043,Arthur Theate,Belgium,https://media.api-sports.io/football/players/204043.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+264,Thomas Meunier,Belgium,https://media.api-sports.io/football/players/264.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+162141,Koni De Winter,Belgium,https://media.api-sports.io/football/players/162141.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+375974,Joaquin Seys,Belgium,https://media.api-sports.io/football/players/375974.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+335056,Diego Moreira,Belgium,https://media.api-sports.io/football/players/335056.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+1417,Alexis Saelemaekers,Belgium,https://media.api-sports.io/football/players/1417.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+25458,Dodi Lukebakio,Belgium,https://media.api-sports.io/football/players/25458.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+20,Axel Witsel,Belgium,https://media.api-sports.io/football/players/20.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+907,Romelu Lukaku,Belgium,https://media.api-sports.io/football/players/907.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
+340077,Matías Fernández-Pardo,Belgium,https://media.api-sports.io/football/players/340077.png,1,Belgium,https://media.api-sports.io/football/teams/1.png,,1581821,2026-07-10,0,0,,0,0
 270774,Raúl Rangel,Mexico,https://media.api-sports.io/football/players/270774.png,16,Mexico,https://media.api-sports.io/football/teams/16.png,,1489369,2026-06-11,0,0,,0,90
 127227,Israel Reyes,Mexico,https://media.api-sports.io/football/players/127227.png,16,Mexico,https://media.api-sports.io/football/teams/16.png,,1489369,2026-06-11,0,0,,1,90
 2873,César Montes,Mexico,https://media.api-sports.io/football/players/2873.png,16,Mexico,https://media.api-sports.io/football/teams/16.png,,1489369,2026-06-11,0,0,,0,90
