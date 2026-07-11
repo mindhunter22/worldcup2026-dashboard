@@ -1,6 +1,4 @@
 Equipe_ID,Nom_Equipe,URL_Logo,URL_Drapeau
-9,Spain,https://media.api-sports.io/football/teams/9.png,https://flagcdn.com/w320/es.png
-1,Belgium,https://media.api-sports.io/football/teams/1.png,https://flagcdn.com/w320/be.png
 16,Mexico,https://media.api-sports.io/football/teams/16.png,https://flagcdn.com/w320/mx.png
 1531,South Africa,https://media.api-sports.io/football/teams/1531.png,https://flagcdn.com/w320/za.png
 17,South Korea,https://media.api-sports.io/football/teams/17.png,https://flagcdn.com/w320/kr.png
@@ -25,7 +23,9 @@ Equipe_ID,Nom_Equipe,URL_Logo,URL_Drapeau
 2382,Ecuador,https://media.api-sports.io/football/teams/2382.png,https://flagcdn.com/w320/ec.png
 5,Sweden,https://media.api-sports.io/football/teams/5.png,https://flagcdn.com/w320/se.png
 28,Tunisia,https://media.api-sports.io/football/teams/28.png,https://flagcdn.com/w320/tn.png
+9,Spain,https://media.api-sports.io/football/teams/9.png,https://flagcdn.com/w320/es.png
 1533,Cape Verde Islands,https://media.api-sports.io/football/teams/1533.png,https://flagcdn.com/w320/cv.png
+1,Belgium,https://media.api-sports.io/football/teams/1.png,https://flagcdn.com/w320/be.png
 32,Egypt,https://media.api-sports.io/football/teams/32.png,https://flagcdn.com/w320/eg.png
 23,Saudi Arabia,https://media.api-sports.io/football/teams/23.png,https://flagcdn.com/w320/sa.png
 7,Uruguay,https://media.api-sports.io/football/teams/7.png,https://flagcdn.com/w320/uy.png
